@@ -1,0 +1,1 @@
+print("FitBuddy AI project setup complete")
